@@ -1,4 +1,6 @@
 ShinyTimeseriesForecasting
 ==========================
 
-TimeseriesForecasting with R and Shiny
+Timeseries Forecasting with R, the Forecast R package and Shiny.
+
+
